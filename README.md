@@ -1,8 +1,6 @@
 ### Opa! eu sou o Vinícius 👋
 - 🌱 Estudando Node.js
-- 🧐 Já Trabalhei com flutterFlow
-- 👶 comecei com noCode
-
+  
 <a href="#">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=nicius2&show_icons=true&theme=dark" />
 </a>
