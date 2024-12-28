@@ -1,5 +1,5 @@
-### Opa! eu sou o Vinícius 👋
-- 🌱 Estudando Spring
+### Óla, meu nome é Vinicius!
+- **Estudante de Ciência da Computação 1/8**
   
 <a href="#">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=nicius2&show_icons=true&theme=dark" />
