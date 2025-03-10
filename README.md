@@ -1,6 +1,6 @@
 # 🚀Olá, meu nome é Vinicius Campos!
 
-<strong> Estudante de ciência da computação 1/8 </strong>
+<strong> Estudante de ciência da computação 2/8 </strong>
 
 <div align="center">
   <a href="https://github.com/nicius2">
