@@ -7,7 +7,7 @@
 
 ### Linguagens e Tecnologias que uso diariamente
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
