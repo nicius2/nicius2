@@ -5,7 +5,7 @@
 
 <p align="center">
   <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Java</code> <br/>
-  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code>  • <code>JWT</code>  • <code>Zod</code><br/>
+  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code>  • <code>JWT</code>  • <code>Zod</code><br/> • <code>Prisma</code><br/>
   <code>Figma</code> • <code>Tailwindcss</code> • <code>Sass</code> 
 </p>
 
@@ -13,6 +13,7 @@
 
 ### 💡 About me
 😎 I like to contribute to the team, do what needs to be done, and deploy.<br/>
+👩‍💻 studying computer science<br/>
 🎯 Developed since the age of 15.<br/>
 🎷 Saxophonist and guitarist in his spare time (inside his room).<br/>
 🦎 Always adapting to everyday scenarios.<br/>
