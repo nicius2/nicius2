@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Java</code> <br/>
+  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> <code>Fastify</code>  <br/>
   <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code>  • <code>JWT</code>  • <code>Zod</code><br/>
   <code>Figma</code> • <code>Tailwindcss</code> • <code>Sass</code> 
 </p>
