@@ -26,9 +26,10 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicius2&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicius2&layout=compact&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicius2&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicius2&layout=compact&theme=dark&hide_border=true"/>
 </div>
+
 
 
 ### 🔗 Let's connect
