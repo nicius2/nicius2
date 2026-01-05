@@ -1,35 +1,29 @@
 <h1 align='center'>👩‍💻 Vinícius Campos</h1>
 <p align="center">
-  <em>Full Stack Developer · 🇧🇷 based in São Luis · working as an intern</em>
+  <em>Desenvolvedor Full Stack · 🇧🇷 moro em São Luis · 3 anos de expêriencia </em>
 </p>
 
 <p align="center">
-  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> • <code>Fastify</code>  <br/>
-  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code>  • <code>JWT</code>  • <code>Zod</code><br/>
-  <code>Figma</code> • <code>Tailwindcss</code> • <code>Sass</code> 
+  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> • <code>Fastify</code>  <br/> 
+  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code> • <code>AWS</code>• <code>CI/CD</code>  • <code>kubernetes</code></br>
+  <code>Figma</code> • <code>Tailwindcss</code> • <code>Sass</code> • <code>JWT</code>  • <code>Zod</code><br/> 
 </p>
 
 ---
 
-### 💡 About me
-😎 I like to contribute to the team, do what needs to be done, and deploy.<br/>
-👩‍💻 studying computer science<br/>
-🎯 Developed since the age of 15.<br/>
-🎷 Saxophonist and guitarist in his spare time (inside his room).<br/>
-🦎 Always adapting to everyday scenarios.<br/>
+### 💡 Sobre mim
+😎 Gosto de contribuir com o time, fazer o que precisa ser feito e entregar resultados.<br/>
+👩‍💻 Estudante de Ciência da Computação (4/8)<br/>
+🎯 Apaixonado por Tecnologia desde os 15 anos.<br/>
+🎷 Saxofonista e guitarrista nas horas vagas (dentro do próprio quarto).<br/>
+🦎 Sempre me adaptando aos cenários do dia a dia.<br/>
 
 
 <div align="center">
-  <a href="https://portifolio-six-mocha-89.vercel.app/">My portfolio</a>
+  <a href="https://viniciuscampos.vercel.app/">Veja meu projetos no ar</a>
 </div>
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicius2&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicius2&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
 
 
 ### 🔗 Let's connect
