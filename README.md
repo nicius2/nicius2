@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> • <code>Fastify</code>  <br/> 
-  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code> • <code>AWS</code>• <code>CI/CD</code>  • <code>kubernetes</code></br>
-  <code>Figma</code> • <code>Tailwindcss</code> • <code>Sass</code> • <code>JWT</code>  • <code>Zod</code><br/> 
+  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> • <code>Java</code>  <br/> 
+  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code> • <code>AWS</code>• <code>CI/CD</code>  • <code>Spring</code></br>
+  <code>String Boot</code> • <code>Tailwindcss</code> • <code>Sass</code> • <code>JWT</code>  • <code>Zod</code><br/> 
 </p>
 
 ---
