@@ -1,4 +1,4 @@
-<h1 align='center'>👩‍💻 Vinícius Campos</h1>
+<h1 align='center'>👨🏽‍💻 Vinícius Campos</h1>
 <p align="center">
   <em>Desenvolvedor Full Stack · 🇧🇷 moro em São Luis · 3 anos de expêriencia </em>
 </p>
