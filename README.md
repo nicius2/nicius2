@@ -13,7 +13,6 @@
 
 ### 💡 Sobre mim
 😎 Gosto de contribuir com o time, fazer o que precisa ser feito e entregar resultados.<br/>
-👩‍💻 Estudante de Ciência da Computação (4/8)<br/>
 🎯 Apaixonado por Tecnologia desde os 15 anos.<br/>
 🎷 Saxofonista e guitarrista nas horas vagas (dentro do próprio quarto).<br/>
 🦎 Sempre me adaptando aos cenários do dia a dia.<br/>
