@@ -1,6 +1,6 @@
 <h1 align='center'>👨🏽‍💻 Vinícius Campos</h1>
 <p align="center">
-  <em>Desenvolvedor Full Stack · 🇧🇷 moro em São Luis · 3 anos de expêriencia </em>
+  <em>Desenvolvedor Full Stack · 3 anos de expêriencia · Focado em Escalabilidade </em>
 </p>
 
 <p align="center">
