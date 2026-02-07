@@ -21,7 +21,7 @@ Tenho foco em **código limpo, escalabilidade e performance**, sempre aplicando 
 - Criação de **dashboards e interfaces modernas**
 - Desenvolvimento de **APIs REST escaláveis**
 - **CI/CD**, Docker e deploy em cloud  
-- Integração com **APIs externas** e autenticação JWT  
+- Integração com **APIs externas** e autenticação (JWT, Oauth)  
 - Otimização de performance em aplicações web  
 
 ---
