@@ -1,39 +1,63 @@
-<h1 align='center'>👨🏽‍💻 Vinícius Campos</h1>
+<h1 align="center">👨🏽‍💻 Vinícius Campos</h1>
+
 <p align="center">
-  <em>Desenvolvedor Full Stack · 3 anos de expêriencia · Focado em Escalabilidade </em>
+  <strong>Desenvolvedor Full Stack</strong> · APIs escaláveis · Frontends performáticos
 </p>
 
 <p align="center">
-  <code>React</code> • <code>Javascript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Next</code> • <code>Express</code> • <code>Java</code>  <br/> 
-  <code>MongoDB</code> • <code>Postgres</code> • <code>MySQL</code> • <code>Docker</code> • <code>AWS</code>• <code>CI/CD</code>  • <code>Spring</code></br>
-  <code>String Boot</code> • <code>Tailwindcss</code> • <code>Sass</code> • <code>JWT</code>  • <code>Zod</code><br/> 
+  Construo aplicações modernas do zero — da arquitetura ao deploy em produção.
 </p>
 
 ---
 
-### 💡 Sobre mim
-😎 Gosto de contribuir com o time, fazer o que precisa ser feito e entregar resultados.<br/>
-🎯 Apaixonado por Tecnologia desde os 15 anos.<br/>
-🎷 Saxofonista e guitarrista nas horas vagas (dentro do próprio quarto).<br/>
-🦎 Sempre me adaptando aos cenários do dia a dia.<br/>
+## 🚀 Sobre mim
 
+Sou **Desenvolvedor Full Stack** com 3 anos de experiência prática em **produtos reais**, atuando em todo o ciclo de desenvolvimento:  
+arquitetura, modelagem de banco de dados, APIs, frontend e cloud.
 
-<div align="center">
-  <a href="https://viniciuscampos.vercel.app/">Veja meu projetos no ar</a>
-</div>
+Tenho foco em **código limpo, escalabilidade e performance**, sempre aplicando boas práticas de engenharia de software.
+
+💡 Já atuei com:
+- Criação de **dashboards e interfaces modernas**
+- Desenvolvimento de **APIs REST escaláveis**
+- **CI/CD**, Docker e deploy em cloud  
+- Integração com **APIs externas** e autenticação JWT  
+- Otimização de performance em aplicações web  
 
 ---
 
+## 🧠 Tech Stack
 
-### 🔗 Let's connect
+### Backend
+`Node.js` · `TypeScript` · `NestJS` · `Express` · `JWT` · `Java`, `Spring`, `Spring-Boot`
+
+### Frontend
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn` · `Radix UI`
+
+### Bancos de Dados e ORMs
+`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Prisma` · `TypeORM`
+
+### DevOps & Cloud
+`Docker` · `CI/CD (GitHub Actions)` · `AWS (EC2, S3)`
+
+### Boas Práticas
+`SOLID` · `Clean Code` · `Clean Architecture`
+
+---
+
+## 🌍 Idiomas
+🇺🇸 Inglês intermediário
+
+---
+
+## 🔗 Links
 
 <p align="center">
-  <a href='https://www.linkedin.com/in/vin%C3%ADcius-campos-b08978236/'>
-    <img src='https://img.shields.io/badge/LinkedIn-59A0FB?style=for-the-badge&logo=linkedin&logoColor=white'/>
-  </a>
-  <a href='https://twitter.com/nicius__'>
-    <img src='https://img.shields.io/badge/X-59A0FB?style=for-the-badge&logo=x&logoColor=white'/>
-  </a>
+  <a href="https://github.com/nicius2">GitHub</a> •
+  <a href="https://viniciuscampos.vercel.app/">Portfólio</a> •
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-campos-b08978236/">LinkedIn</a>
 </p>
 
-
+<p align="center">
+  <em>Código limpo, arquitetura bem pensada e entregas que geram valor.</em>
+</p>
