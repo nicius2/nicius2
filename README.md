@@ -32,13 +32,13 @@ Tenho foco em **código limpo, escalabilidade e performance**, sempre aplicando 
 `Node.js` · `TypeScript` · `NestJS` · `Express` · `JWT` · `Java`, `Spring`, `Spring-Boot`
 
 ### Frontend
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn` · `Radix UI`
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn` · `Radix UI`, `Redux`, `Context API`, `PHP (Laravel)`
 
 ### Bancos de Dados e ORMs
 `PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Prisma` · `TypeORM`
 
 ### DevOps & Cloud
-`Docker` · `CI/CD (GitHub Actions)` · `AWS (EC2, S3)`
+`Docker` · `CI/CD (GitHub Actions)` · `AWS (EC2, S3 bucket)`
 
 ### Boas Práticas
 `SOLID` · `Clean Code` · `Clean Architecture`
