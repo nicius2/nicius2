@@ -1,52 +1,52 @@
 <h1 align="center">👨🏽‍💻 Vinícius Campos</h1>
-
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> · APIs escaláveis · Frontends performáticos
+  <strong>Full Stack Developer</strong> · Scalable APIs · High-performance Frontends
 </p>
-
 <p align="center">
-  Construo aplicações modernas do zero — da arquitetura ao deploy em produção.
+  I build modern applications from scratch — from architecture to production deployment.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou **Desenvolvedor Full Stack** com 3 anos de experiência prática em **produtos reais**, atuando em todo o ciclo de desenvolvimento:  
-arquitetura, modelagem de banco de dados, APIs, frontend e cloud.
+I'm a **Full Stack Developer** with 2 years of hands-on experience in **real-world products**, working across the entire development cycle:  
+architecture, database modeling, APIs, frontend and cloud.
 
-Tenho foco em **código limpo, escalabilidade e performance**, sempre aplicando boas práticas de engenharia de software.
+I focus on **clean code, scalability and performance**, always applying software engineering best practices.
 
-💡 Já atuei com:
-- Criação de **dashboards e interfaces modernas**
-- Desenvolvimento de **APIs REST escaláveis**
-- **CI/CD**, Docker e deploy em cloud  
-- Integração com **APIs externas** e autenticação (JWT, Oauth)  
-- Otimização de performance em aplicações web  
+💡 I have experience with:
+
+- Building **dashboards and modern interfaces**
+- Developing **scalable REST APIs**
+- **CI/CD**, Docker and cloud deployment
+- Integration with **external APIs** and authentication (JWT, OAuth)
+- Performance optimization in web applications
 
 ---
 
 ## 🧠 Tech Stack
 
 ### Backend
-`Node.js` · `TypeScript` · `NestJS` · `Express` · `JWT` · `Java`, `Spring`, `Spring-Boot`
+`Node.js` · `TypeScript` · `NestJS` · `Express` · `JWT` · `Java` · `Spring` · `Spring Boot`
 
 ### Frontend
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn` · `Radix UI`, `Redux`, `Context API`, `PHP (Laravel)`
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn` · `Radix UI` · `Redux` · `Context API` · `PHP (Laravel)`
 
-### Bancos de Dados e ORMs
+### Databases & ORMs
 `PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Prisma` · `TypeORM`
 
 ### DevOps & Cloud
-`Docker` · `CI/CD (GitHub Actions)` · `AWS (EC2, S3 bucket)`
+`Docker` · `CI/CD (GitHub Actions)` · `AWS (EC2, S3 Bucket)`
 
-### Boas Práticas
+### Best Practices
 `SOLID` · `Clean Code` · `Clean Architecture`
 
 ---
 
-## 🌍 Idiomas
-🇺🇸 Inglês intermediário
+## 🌍 Languages
+
+🇺🇸 Intermediate English
 
 ---
 
@@ -54,10 +54,9 @@ Tenho foco em **código limpo, escalabilidade e performance**, sempre aplicando 
 
 <p align="center">
   <a href="https://github.com/nicius2">GitHub</a> •
-  <a href="https://viniciuscampos.vercel.app/">Portfólio</a> •
+  <a href="https://viniciuscampos.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-campos-b08978236/">LinkedIn</a>
 </p>
-
 <p align="center">
-  <em>Código limpo, arquitetura bem pensada e entregas que geram valor.</em>
+  <em>Clean code, thoughtful architecture and deliveries that generate value.</em>
 </p>
